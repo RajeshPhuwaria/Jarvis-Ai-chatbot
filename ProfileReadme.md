@@ -5,7 +5,6 @@ Passionate software engineer and dedicated college student skilled in Python, C,
 I love building innovative solutions and learning new technologies.  
 Check out my featured projects:  
 - [Jarvis-Ai-chatbot](https://github.com/RajeshPhuwaria/Jarvis-Ai-chatbot): An AI chatbot that generates answers and provides news highlights from India.
-- [Netflix Clone](https://github.com/RajeshPhuwaria/reactVite_projects): A Netflix clone built with modern web technologies.
 
 Connect with me:  
 - 📸 [Instagram](https://instagram.com/rajesh_2006)
